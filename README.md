@@ -4,7 +4,7 @@
 
 ## Login page
 
-![alt text](<Screenshot 2025-10-29 184921.png>)
+![alt text](<images/Screenshot 2025-10-29 184921.png>)
 
 ## Login page
 
