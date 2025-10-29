@@ -8,10 +8,10 @@
 
 ![alt text](<images/Screenshot 2025-10-29 184730.png>)
 
-## Login page
+## Form page
 
 ![alt text](<images/Screenshot 2025-10-29 184921.png>)
 
-## Login page
+## Details page
 
 ![alt text](<images/Screenshot 2025-10-29 184959.png>)
